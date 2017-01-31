@@ -1,0 +1,22 @@
+{
+  "name": "cute-photo-uploader",
+  "homepage": "https://github.com/C-Stein/cute-photo-uploader",
+  "authors": [
+    "Caitlin Stein <caitlin.teter@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "firebase": "^3.6.7"
+  }
+}
